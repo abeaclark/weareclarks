@@ -6,12 +6,12 @@ const theme = {
   baseLineHeight: 1.25,
   googleFonts: [
     {
-      name: 'PT Sans',
-      styles: ['700', '400'],
+      name: 'Thasadith',
+      styles: ['400', '400i', '700', '700i'],
     },
   ],
-  headerFontFamily: ['PT Sans', 'sans-serif'],
-  bodyFontFamily: ['sans-serif'],
+  headerFontFamily: ['Thasadith', 'sans-serif'],
+  bodyFontFamily: ['Thasadith', 'sans-serif'],
   bodyColor: 'hsla(0,0%,0%,0.6)',
   headerColor: 'hsla(0, 0%, 0%, 0.8)',
   headerWeight: '700',
