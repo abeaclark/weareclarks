@@ -1,7 +1,8 @@
 ---
 title: Vaccinations
 date: 2019-01-15
-image: '/media/lookout.jpeg'
+image: '/photos/covers/vaccinations.JPG'
+published: true
 ---
 
 ### What people don’t talk about when they travel: TRAVEL VACCINATIONS
@@ -53,9 +54,6 @@ We both were outdated for our Tetanus shots and had that taken care of at a phar
 
 **TYPHOID (Lindsay and Abe)**
 This vaccine is recommended for “some” travelers in Thailand and Bali. Since we will be traveling through these areas for 2.5 months, we decided we fell into the “some” travelers” category. This vaccine is not approved for Stella’s age. We chose the oral vaccine option, which is a series of pills. 
-
-**MALARIA**
-Still deciding, will update once we decide!
 
 This is what WE decided to do. Based on your needs or where you are going you may not need any of these, or may want to consider other vaccines. Do your own research. As far as travel planning goes, we decided to cut out Vietnam and Cambodia, and India, because of certain disease risks. 
 

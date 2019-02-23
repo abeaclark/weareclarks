@@ -3,28 +3,15 @@ import { rhythm } from '../utils/typography'
 import { themeStyles, colors, presets } from '../utils/theme'
 import { parent } from 'glamor'
 import { Link, navigate } from 'gatsby'
-
-import { FaFacebookF, FaInstagram, FaGooglePlusG, FaBloggerB, FaYoutube, FaAngleDown, FaAngleUp } from 'react-icons/fa';
-import { IoIosMenu } from 'react-icons/io';
+import logo from '../assets/we-are-clarks-logo.png'
 
 class Header extends React.Component {
   render() {
     return (
-      <div css={{ zIndex: 100, backgroundColor: 'rgba(256,256,256,.7)', }}>
-        <div
-          css={{
-            ...themeStyles.contentWidth,
-            display: 'flex',
-            alignSelf: 'stretch',
-            marginBottom: rhythm(2.5),
-            padding: rhythm(3),
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            zIndex: 100,
-          }}
-        >
+      <div css={themeStyles.textPadding}>
+        <div css={{borderBottom: '1px solid black', width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
           <Link to="/">
-            The Real Clarks
+            <img src={logo} css={{maxWidth: '250px'}}/>
           </Link>
         </div>
       </div>

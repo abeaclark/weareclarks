@@ -5,6 +5,9 @@ import get from 'lodash/get'
 
 import Layout from '../components/layout'
 import { rhythm, scale } from '../utils/typography'
+import Header from '../components/Header'
+import { presets, themeStyles } from '../utils/theme'
+import { TitleDatePhoto } from '../pages/index'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -13,6 +16,11 @@ class BlogPostTemplate extends React.Component {
     const siteDescription = post.excerpt
     const { previous, next } = this.props.pageContext
 
+    const title = get(post, 'frontmatter.title')
+    const image = get(post, 'frontmatter.image')
+    const date = get(post, 'frontmatter.date')
+    const excerpt = get(post, 'excerpt')
+
     return (
       <Layout location={this.props.location}>
         <Helmet
@@ -20,8 +28,10 @@ class BlogPostTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${post.frontmatter.title} | ${siteTitle}`}
         />
-        <div css={{padding: '20px'}}>
-          <h1>{post.frontmatter.title}</h1>
+        <Header />
+        <div css={themeStyles.textPadding}>
+          <TitleDatePhoto title={title} date={date} image={image}/>
+          <div css={{marginBottom: rhythm(1)}}/>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
       </Layout>

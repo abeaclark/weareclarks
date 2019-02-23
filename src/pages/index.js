@@ -4,8 +4,9 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
+import Header from '../components/Header'
 import { rhythm } from '../utils/typography'
-import { presets } from '../utils/theme'
+import { presets, themeStyles } from '../utils/theme'
 
 const styles = {
   menuItem: {
@@ -28,6 +29,13 @@ const styles = {
   },
 }
 
+export const TitleDatePhoto = ({ title, date, image }) =>
+  <div>
+    <h2 css={{fontSize: rhythm(1.5), marginBottom: 0}}>{title}</h2>
+    <div css={{fontSize: rhythm(1), marginBottom: rhythm(1/2)}}>{date.toLowerCase()}</div>
+    <img src={image} css={{marginBottom: 0}}/>
+  </div>
+
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -35,16 +43,22 @@ class BlogIndex extends React.Component {
       this,
       'props.data.site.siteMetadata.description'
     )
-    const posts = get(this, 'props.data.allMarkdownRemark.edges')
+    let posts = get(this, 'props.data.allMarkdownRemark.edges') || []
+    posts = posts.filter(post => post.node.frontmatter.published)
     let currentLocation = null
+
 
     const postElements = posts.map(({ node }) => {
       const title = get(node, 'frontmatter.title')
       const image = get(node, 'frontmatter.image')
+      const date = get(node, 'frontmatter.date')
+      const excerpt = get(node, 'excerpt')
       return (
         <Link css={styles.col} to={node.fields.slug}>
-          <div css={{fontSize: rhythm(1), marginBottom: rhythm(1/2)}}>{title}</div>
-          <img src={image} />
+          <TitleDatePhoto title={title} date={date} image={image}/>
+          <p css={{marginBottom: rhythm(2), marginTop: rhythm(1/2), fontSize: rhythm(1)}}>
+            {excerpt}
+          </p>
         </Link>
       )
     })
@@ -56,20 +70,9 @@ class BlogIndex extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={siteTitle}
         />
-        <div css={{padding: '20px'}}>
-          <div css={{[presets.Phablet]: {flexDirection: 'row',}, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'space-between'}}>
-            <h1 css={{flex: 1, display: 'flex'}}>
-              the clark family
-            </h1>
-            <div css={{marginBottom: '20px', fontSize: rhythm(1)}}>
-              <a css={{marginRight: '10px'}} href="https://www.instagram.com/weareclarks/">@weareclarks</a>
-              <a css={{marginRight: '10px'}} href="https://www.instagram.com/lschwendi/">@lschwendi</a>
-              <a css={{marginRight: '10px'}} href="https://www.instagram.com/abe_clark/">@abe_clark</a>
-            </div>
-          </div>
-          <div css={styles.flexGrid}>
-            {postElements}
-          </div>
+        <Header />
+        <div css={themeStyles.textPadding}>
+          {postElements}
         </div>
         
       </Layout>
@@ -87,17 +90,18 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
       edges {
         node {
-          excerpt
+          excerpt(pruneLength: 200)
           fields {
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
             image
+            published
           }
         }
       }

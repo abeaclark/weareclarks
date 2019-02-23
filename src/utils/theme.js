@@ -19,7 +19,7 @@ export const metrics = {
   defaultMargin: rhythm(2),
   defaultPadding: rhythm(3),
   defaultMobilePadding: rhythm(1),
-  contentWidth: "1400px"
+  contentWidth: "1000px"
 }
 
 export const themeStyles = {
@@ -35,7 +35,7 @@ export const themeStyles = {
     paddingRight: metrics.defaultMobilePadding,
     paddingTop: rhythm(1),
       paddingBottom: rhythm(1),
-    [presets.Mobile]: {
+    [presets.Phablet]: {
       paddingLeft: metrics.defaultPadding,
       paddingRight: metrics.defaultPadding,
       paddingTop: rhythm(1),

@@ -2,15 +2,19 @@ import Typography from 'typography'
 
 const theme = {
   title: 'Custom Theme',
-  baseFontSize: '15px',
+  baseFontSize: '18px',
   baseLineHeight: 1.25,
   googleFonts: [
     {
       name: 'Thasadith',
       styles: ['400', '400i', '700', '700i'],
     },
+    {
+      name: 'Karla',
+      styles: ['700'],
+    },
   ],
-  headerFontFamily: ['Thasadith', 'sans-serif'],
+  headerFontFamily: ['Karla', 'sans-serif'],
   bodyFontFamily: ['Thasadith', 'sans-serif'],
   bodyColor: 'hsla(0,0%,0%,0.6)',
   headerColor: 'hsla(0, 0%, 0%, 0.8)',
@@ -18,14 +22,6 @@ const theme = {
   bodyWeight: '400',
   boldWeight: '700',
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
-    // h1: {
-    //   ...scale(2),
-    // },
-    // [TABLET_MEDIA_QUERY]: {
-    //   h1: {
-    //     ...scale(5 / 5),
-    //   },
-    // },
     a: {
       color: options.bodyColor,
       textDecoration: 'none',
@@ -33,10 +29,6 @@ const theme = {
     p: {
       paddingBottom: rhythm(1/2),
     },
-    // 'a:hover': {
-    //   color: '#ea9629',
-    //   textDecoration: 'underline',
-    // },
     'ol,ul': {
       marginLeft: 0,
       paddingLeft: rhythm(1.5),
