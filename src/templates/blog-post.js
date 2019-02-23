@@ -8,6 +8,7 @@ import { rhythm, scale } from '../utils/typography'
 import Header from '../components/Header'
 import { presets, themeStyles } from '../utils/theme'
 import { TitleDatePhoto } from '../pages/index'
+import MainHelmet from '../components/MainHelmet'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -23,10 +24,10 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <Helmet
-          htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
-          title={`${post.frontmatter.title} | ${siteTitle}`}
+        <MainHelmet
+          description={excerpt}
+          image={image}
+          title={`${siteTitle} | ${title}`}
         />
         <Header />
         <div css={themeStyles.textPadding}>
