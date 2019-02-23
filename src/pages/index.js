@@ -56,7 +56,7 @@ class BlogIndex extends React.Component {
       return (
         <Link css={styles.col} to={node.fields.slug}>
           <TitleDatePhoto title={title} date={date} image={image}/>
-          <p css={{marginBottom: rhythm(2), marginTop: rhythm(1/2), fontSize: rhythm(1)}}>
+          <p css={{marginBottom: rhythm(2), marginTop: rhythm(1/2), fontSize: rhythm(3/4)}}>
             {excerpt}
           </p>
         </Link>
@@ -90,7 +90,7 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
           excerpt(pruneLength: 200)

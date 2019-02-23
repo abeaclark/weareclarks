@@ -3,7 +3,7 @@ import Typography from 'typography'
 const theme = {
   title: 'Custom Theme',
   baseFontSize: '18px',
-  baseLineHeight: 1.25,
+  baseLineHeight: 1.5,
   googleFonts: [
     {
       name: 'Thasadith',
