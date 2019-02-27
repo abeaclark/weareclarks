@@ -1,7 +1,7 @@
 ---
 title: Favorite Treats on Oahu
 date: 2019-01-30
-image: '/photos/covers/favorit-treats-oahu.jpg'
+featuredImage: './favorite-treats-oahu.jpg'
 published: true
 ---
 

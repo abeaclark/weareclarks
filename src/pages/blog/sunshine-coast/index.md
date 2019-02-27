@@ -1,7 +1,7 @@
 ---
 title: Sushine Coast
 date: 2019-02-17
-image: '/photos/covers/sunshine-coast.JPG'
+featuredImage: './sunshine-coast.jpg'
 published: true
 ---
 

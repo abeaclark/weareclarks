@@ -1,7 +1,7 @@
 ---
 title: Hanauma Bay
 date: 2019-01-24
-image: '/photos/covers/hanauma-bay.jpg'
+featuredImage: './hanauma-bay.jpg'
 published: true
 ---
 

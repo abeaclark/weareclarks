@@ -1,7 +1,7 @@
 ---
 title: "Road trip: Sydney to Brisbane"
 date: 2019-02-11
-image: '/photos/covers/sydney-to-brisbane.jpg'
+featuredImage: './sydney-to-brisbane.jpg'
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Surfing at Haleiwa
 date: 2019-01-24
-image: '/media/stella-hat.jpeg'
+featuredImage: './stella-hat.jpg'
 published: false
 ---
 

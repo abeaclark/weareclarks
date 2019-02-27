@@ -1,7 +1,7 @@
 ---
 title: Brisbane
 date: 2019-02-12
-image: '/photos/covers/brisbane.jpg'
+featuredImage: './brisbane.jpg'
 published: true
 ---
 

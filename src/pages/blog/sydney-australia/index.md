@@ -1,7 +1,7 @@
 ---
 title: Sydney, Australia
 date: 2019-02-09
-image: '/photos/covers/sydney.jpg'
+featuredImage: './sydney.jpg'
 published: true
 ---
 

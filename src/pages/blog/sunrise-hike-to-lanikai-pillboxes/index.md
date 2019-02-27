@@ -1,7 +1,7 @@
 ---
 title: Sunrise hike to Lanikai Pillboxes
 date: 2019-01-26
-image: '/photos/covers/lanakai-pillbox.JPG'
+featuredImage: './lanakai-pillbox.jpg'
 published: true
 ---
 

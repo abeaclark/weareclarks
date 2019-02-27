@@ -44,6 +44,7 @@ exports.createPages = ({ graphql, actions }) => {
             component: blogPost,
             context: {
               slug: post.node.fields.slug,
+              coverImagePath: `${post.node.fields.slug}cover.jpg`.substring(1),
               previous,
               next,
             },
@@ -63,6 +64,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       name: `slug`,
       node,
       value,
+    })
+
+    const coverImagePath = `${node.fields.slug}cover.jpg`.substring(1)
+    createNodeField({
+      name: `coverImagePath`,
+      node,
+      value: coverImagePath,
     })
   }
 }

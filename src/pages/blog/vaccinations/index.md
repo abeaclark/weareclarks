@@ -1,7 +1,7 @@
 ---
 title: Vaccinations
 date: 2019-01-10
-image: '/photos/covers/vaccinations.JPG'
+featuredImage: './vaccinations.jpg'
 published: true
 ---
 

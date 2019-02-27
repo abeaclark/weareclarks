@@ -7,6 +7,8 @@ import Layout from '../components/layout'
 import Header from '../components/Header'
 import { rhythm } from '../utils/typography'
 import { presets, themeStyles } from '../utils/theme'
+import Img from "gatsby-image"
+import { GatsbyImageSharpFluid_noBase64 } from 'gatsby-transformer-sharp'
 
 const styles = {
   menuItem: {
@@ -29,11 +31,13 @@ const styles = {
   },
 }
 
-export const TitleDatePhoto = ({ title, date, image }) =>
+export const TitleDatePhoto = ({ title, date, imageResponsive }) =>
   <div>
     <h2 css={{fontSize: rhythm(1.5), marginBottom: 0}}>{title}</h2>
     <div css={{fontSize: rhythm(1), marginBottom: rhythm(1/2)}}>{date.toLowerCase()}</div>
-    <img src={image} css={{marginBottom: 0}}/>
+    {imageResponsive &&
+      <Img fluid={imageResponsive} css={{marginBottom: 0}}/>
+    }
   </div>
 
 class BlogIndex extends React.Component {
@@ -50,12 +54,12 @@ class BlogIndex extends React.Component {
 
     const postElements = posts.map(({ node }) => {
       const title = get(node, 'frontmatter.title')
-      const image = get(node, 'frontmatter.image')
+      const imageResponsive = get(node, 'frontmatter.featuredImage.childImageSharp.fluid')
       const date = get(node, 'frontmatter.date')
       const excerpt = get(node, 'excerpt')
       return (
         <Link css={styles.col} to={node.fields.slug}>
-          <TitleDatePhoto title={title} date={date} image={image}/>
+          <TitleDatePhoto title={title} date={date} imageResponsive={imageResponsive}/>
           <p css={{marginBottom: rhythm(2), marginTop: rhythm(1/2), fontSize: rhythm(3/4)}}>
             {excerpt}
           </p>
@@ -100,7 +104,13 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
-            image
+            featuredImage {
+              childImageSharp {
+                fluid(maxWidth: 1000) {
+                  ...GatsbyImageSharpFluid_noBase64
+                }
+              }
+            }
             published
           }
         }

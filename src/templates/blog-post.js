@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { Link,graphql } from 'gatsby'
+import { Link, graphql, StaticQuery } from 'gatsby'
 import get from 'lodash/get'
 
 import Layout from '../components/layout'
@@ -9,9 +9,12 @@ import Header from '../components/Header'
 import { presets, themeStyles } from '../utils/theme'
 import { TitleDatePhoto } from '../pages/index'
 import MainHelmet from '../components/MainHelmet'
+import Img from "gatsby-image"
+import { GatsbyImageSharpFluid_noBase64 } from 'gatsby-transformer-sharp'
 
 class BlogPostTemplate extends React.Component {
   render() {
+    console.log(this.props)
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const siteDescription = post.excerpt
@@ -21,6 +24,7 @@ class BlogPostTemplate extends React.Component {
     const image = get(post, 'frontmatter.image')
     const date = get(post, 'frontmatter.date')
     const excerpt = get(post, 'excerpt')
+    const titleImageResponsive = get(post, 'frontmatter.featuredImage.childImageSharp.fluid')
 
     return (
       <Layout location={this.props.location}>
@@ -31,7 +35,7 @@ class BlogPostTemplate extends React.Component {
         />
         <Header />
         <div css={themeStyles.textPadding}>
-          <TitleDatePhoto title={title} date={date} image={image}/>
+          <TitleDatePhoto title={title} date={date} imageResponsive={titleImageResponsive}/>
           <div css={{marginBottom: rhythm(1)}}/>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
@@ -57,8 +61,23 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        image
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 1000) {
+              ...GatsbyImageSharpFluid_noBase64
+            }
+          }
+        }
       }
     }
+    
   }
 `
+
+// file(relativePath: { eq: $coverImagePath }) {
+//       childImageSharp {
+//         fluid(maxWidth: 1000) {
+//           ...GatsbyImageSharpFluid_noBase64
+//         }
+//       }
+//     }

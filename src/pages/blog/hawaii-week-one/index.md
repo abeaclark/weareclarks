@@ -1,7 +1,7 @@
 ---
 title: Hawaii Week One
 date: 2019-01-13
-image: '/photos/covers/hawaii-week-1.JPG'
+featuredImage: './hawaii-week-1.jpg'
 published: true
 ---
 
