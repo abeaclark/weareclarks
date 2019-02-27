@@ -8,7 +8,7 @@ import Header from '../components/Header'
 import { rhythm } from '../utils/typography'
 import { presets, themeStyles } from '../utils/theme'
 import Img from "gatsby-image"
-import { GatsbyImageSharpFluid_tracedSVG } from 'gatsby-transformer-sharp'
+import { GatsbyImageSharpFluid } from 'gatsby-transformer-sharp'
 
 const styles = {
   menuItem: {
@@ -107,7 +107,7 @@ export const pageQuery = graphql`
             featuredImage {
               childImageSharp {
                 fluid(maxWidth: 1000) {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

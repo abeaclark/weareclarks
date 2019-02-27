@@ -10,7 +10,7 @@ import { presets, themeStyles } from '../utils/theme'
 import { TitleDatePhoto } from '../pages/index'
 import MainHelmet from '../components/MainHelmet'
 import Img from "gatsby-image"
-import { GatsbyImageSharpFluid_tracedSVG } from 'gatsby-transformer-sharp'
+import { GatsbyImageSharpFluid } from 'gatsby-transformer-sharp'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -64,7 +64,7 @@ export const pageQuery = graphql`
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 1000) {
-              ...GatsbyImageSharpFluid_tracedSVG
+              ...GatsbyImageSharpFluid
             }
           }
         }
