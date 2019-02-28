@@ -25,12 +25,12 @@ class BlogPostTemplate extends React.Component {
     const date = get(post, 'frontmatter.date')
     const excerpt = get(post, 'excerpt')
     const titleImageResponsive = get(post, 'frontmatter.featuredImage.childImageSharp.fluid')
-
+    const thumbnailImage = get(post, 'frontmatter.featuredImage.childImageSharp.fluid.src')
     return (
       <Layout location={this.props.location}>
         <MainHelmet
           description={excerpt}
-          image={image}
+          image={thumbnailImage}
           title={`${siteTitle} | ${title}`}
         />
         <Header />
