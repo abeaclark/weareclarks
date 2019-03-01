@@ -14,7 +14,6 @@ import { GatsbyImageSharpFluid } from 'gatsby-transformer-sharp'
 
 class BlogPostTemplate extends React.Component {
   render() {
-    console.log(this.props)
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const siteDescription = post.excerpt
@@ -26,11 +25,12 @@ class BlogPostTemplate extends React.Component {
     const excerpt = get(post, 'excerpt')
     const titleImageResponsive = get(post, 'frontmatter.featuredImage.childImageSharp.fluid')
     const thumbnailImage = get(post, 'frontmatter.featuredImage.childImageSharp.fluid.src')
+    const fullThumbnailImageURL = `${this.props.location.origin}${thumbnailImage}`
     return (
       <Layout location={this.props.location}>
         <MainHelmet
           description={excerpt}
-          image={thumbnailImage}
+          image={fullThumbnailImageURL}
           title={`${siteTitle} | ${title}`}
         />
         <Header />
