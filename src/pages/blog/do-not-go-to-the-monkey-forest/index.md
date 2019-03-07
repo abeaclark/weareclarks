@@ -3,6 +3,7 @@ title: DO NOT GO TO THE MONKEY FOREST
 date: 2019-02-20
 featuredImage: './IMG_4328.jpg'
 published: true
+destination: Bali
 ---
 
 Okay so different people have different opinions on this, but I’d strongly recommend against going to any monkey forest in Bali. We went to the “less touristy” one as recommended to us by our host, and thank goodness our host was there to take care of us after everything. Here’s the story on what happened.

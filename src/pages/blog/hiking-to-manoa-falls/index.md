@@ -3,6 +3,7 @@ title: Hiking to Manoa Falls
 date: 2019-01-20
 featuredImage: './IMG_1388.JPG'
 published: true
+destination: Hawaii
 ---
 
 Now Manoa Falls is my type of hike.

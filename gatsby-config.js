@@ -3,9 +3,9 @@ module.exports = {
     title: 'we are clarks',
     author: 'Abe Clark',
     description: 'We are traveling the world and sometimes post photos here',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://www.weareclarks.com/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/',
   plugins: [
     `gatsby-plugin-glamor`,
     {
@@ -60,7 +60,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `we are clarks`,
-        short_name: `GatsbyJS`,
+        short_name: `weareclarks`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

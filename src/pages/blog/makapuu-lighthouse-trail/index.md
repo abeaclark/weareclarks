@@ -3,6 +3,7 @@ title: Makapu’u Lighthouse Trail
 date: 2019-01-06
 featuredImage: './IMG_1005.jpg'
 published: true
+destination: Hawaii
 ---
 
 This is the first activity we did once we arrived in Hawaii! We headed to this trail after church on Sunday.

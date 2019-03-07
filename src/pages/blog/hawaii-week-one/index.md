@@ -3,6 +3,7 @@ title: Hawaii Week One
 date: 2019-01-13
 featuredImage: './hawaii-week-1.jpg'
 published: true
+destination: Hawaii
 ---
 
 I was very interested to see how week one of our travel adventure would go. We took it slow. Let ourselves adjust to the time change (4 hours, not bad considering when we go to Australia we will be crossing the date line and it will be a different day). Stella is a pro at sleeping in the pack n play for naps AND at night (WIN). We did a few things we’ve been looking forward to on Oahu, but mostly we were hanging out, figuring out travel vaccines (more on that here), and figuring out some last minute stuff at home! We still managed a few outings throughout the week. 

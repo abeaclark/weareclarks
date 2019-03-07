@@ -3,6 +3,7 @@ title: Bali Rice Terraces
 date: 2019-02-21
 featuredImage: './IMG_4208.jpg'
 published: true
+destination: Bali
 ---
 
 ![IMG_4193](/IMG_4193.jpg)

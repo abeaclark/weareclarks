@@ -3,6 +3,7 @@ title: Hanauma Bay
 date: 2019-01-24
 featuredImage: './hanauma-bay.jpg'
 published: true
+destination: Hawaii
 ---
 
 Snorkeling at Hanauma Bay was amazing! I would 10/10 recommend this, especially if you can go on a day that won’t be as crowded (weekday, early morning, off-season). I went with Ben & Buffy and their two kids, Lulu and Alexander; and with Krissy & Troy and their five kids, Eli, Cassidy, Sabrina, Elisabeth, and Brecca. Abe needed to work during that time, and he kept Stella with him at our home base (thank you Abe !!!)

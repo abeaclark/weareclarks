@@ -3,6 +3,7 @@ title: Sushine Coast
 date: 2019-02-17
 featuredImage: './sunshine-coast.jpg'
 published: true
+destination: Australia
 ---
 
 So we met up with some really good friends of ours from SF in Australia! They booked a trip to Australia and then realized we were going to be there at the same time. So we modified our hotel booking for Brisbane and then split an airbnb house with Alysse & Cody up on the Sunshine coast, which is like 1.5 hours from Brisbane. Some of the greatest surfing spots are supposed to be up here. 

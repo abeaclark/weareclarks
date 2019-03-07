@@ -35,7 +35,7 @@ export const themeStyles = {
     paddingRight: metrics.defaultMobilePadding,
     paddingTop: rhythm(1),
       paddingBottom: rhythm(1),
-    [presets.Phablet]: {
+    [presets.Desktop]: {
       paddingLeft: metrics.defaultPadding,
       paddingRight: metrics.defaultPadding,
       paddingTop: rhythm(1),

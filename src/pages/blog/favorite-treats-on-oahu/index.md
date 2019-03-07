@@ -3,6 +3,7 @@ title: Favorite Treats on Oahu
 date: 2019-01-30
 featuredImage: './favorite-treats-oahu.jpg'
 published: true
+destination: Hawaii
 ---
 
 ### My favorite treat is… all of them (ha).

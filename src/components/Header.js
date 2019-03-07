@@ -5,13 +5,30 @@ import { parent } from 'glamor'
 import { Link, navigate } from 'gatsby'
 import logo from '../assets/we-are-clarks-logo.png'
 
+const styles = {
+  link: {
+    marginLeft: '15px',
+  }
+}
+
 class Header extends React.Component {
   render() {
     return (
       <div css={themeStyles.textPadding}>
         <div css={{borderBottom: '1px solid black', width: '100%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
           <Link to="/">
-            <img src={logo} css={{maxWidth: '250px'}}/>
+            <img src={logo} css={{maxWidth: '250px', margin: 0, marginBottom: '5px'}}/>
+          </Link>
+        </div>
+        <div css={{display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center'}}>
+          <Link to="/subscribe" css={styles.link}>
+            subscribe
+          </Link>
+          <Link to="/about" css={styles.link}>
+            about
+          </Link>
+          <Link to="/destinations" css={styles.link}>
+            destinations
           </Link>
         </div>
       </div>

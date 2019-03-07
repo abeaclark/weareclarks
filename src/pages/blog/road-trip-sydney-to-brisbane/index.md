@@ -3,6 +3,7 @@ title: "Road trip: Sydney to Brisbane"
 date: 2019-02-11
 featuredImage: './sydney-to-brisbane.jpg'
 published: true
+destination: Australia
 ---
 
 We took a weekend to drive from Sydney to Brisbane thinking it would be more of a coastal drive. Unfortunately it wasn't, but we don’t regret the road trip at all. It was so nice to have an air conditioned car and just be able to go wherever we wanted. 

@@ -3,6 +3,7 @@ title: "Temple by the Lake + Mt Batur"
 date: 2019-02-19
 featuredImage: './IMG_3958.jpg'
 published: true
+destination: Bali
 ---
 
 #### Day Trip Day One: Mt Batur + Temple by the Lake + Hot Springs + Tegallalang Rice Terraces 

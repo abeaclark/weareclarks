@@ -3,6 +3,7 @@ title: Vaccinations
 date: 2019-01-10
 featuredImage: './vaccinations.jpg'
 published: true
+destination: null
 ---
 
 ### What people don’t talk about when they travel: TRAVEL VACCINATIONS

@@ -3,6 +3,7 @@ title: Nung Nung Waterfall
 date: 2019-02-21
 featuredImage: './IMG_4387.jpg'
 published: true
+destination: Bali
 ---
 
 

@@ -3,6 +3,7 @@ title: Sunrise hike to Lanikai Pillboxes
 date: 2019-01-26
 featuredImage: './lanakai-pillbox.jpg'
 published: true
+destination: Hawaii
 ---
 
 We woke up early Saturday morning and drove to the trailhead.

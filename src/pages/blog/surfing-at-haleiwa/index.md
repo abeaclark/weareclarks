@@ -3,6 +3,7 @@ title: Surfing at Haleiwa
 date: 2019-01-31
 featuredImage: './IMG_2638.jpg'
 published: true
+destination: Hawaii
 ---
 
 The whole crew went up to Halewia to try to get some surfing in.
