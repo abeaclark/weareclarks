@@ -21,13 +21,19 @@ const styles = {
     bottom: 0,
     left: 0,
     right: 0,
-    fontSize: rhythm(5),
     color: 'white',
     zIndex: 5,
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
     fontFamily: 'Karla',
+    fontSize: rhythm(1.5),
+    [presets.Tablet]: {
+      fontSize: rhythm(5),
+    },
+    [presets.Phablet]: {
+      fontSize: rhythm(3),
+    },
   }
 }
 
