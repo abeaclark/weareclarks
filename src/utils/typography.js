@@ -23,8 +23,8 @@ const theme = {
   boldWeight: '700',
   overrideStyles: ({ adjustFontSizeTo, scale, rhythm }, options) => ({
     a: {
-      color: options.bodyColor,
-      textDecoration: 'none',
+      color: '#367588',
+      // textDecoration: 'none',
     },
     p: {
       paddingBottom: rhythm(1/2),

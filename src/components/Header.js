@@ -8,6 +8,8 @@ import logo from '../assets/we-are-clarks-logo.png'
 const styles = {
   link: {
     marginLeft: '15px',
+    color: 'inherit',
+    textDecoration: 'none',
   }
 }
 

@@ -17,6 +17,9 @@ We took a trip to the North Shore on Saturday before realizing that a huge swell
 Thanks for reading!
 Linds   
 
+
+`youtube: https://www.youtube.com/embed/bazHHdEX3k8?autoplay=1&showinfo=0&controls=0`
+<br/>
 ![B06](/B0615921-7568-45C3-AB27-C0BC312BBAF5.JPG)
 <br />
 ![7B7](/7B746E03-6102-4ED5-82BC-0ADD987169AF.JPG)
@@ -32,3 +35,4 @@ Linds
 ![733](/73385D72-5F78-48FB-94E8-803A97526940.JPG)
 <br />
 ![D4D](/D4D0B621-E233-49BB-9C40-BBE230209A8D.JPG)
+

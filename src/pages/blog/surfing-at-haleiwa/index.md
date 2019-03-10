@@ -16,6 +16,10 @@ One of my favorite parts of today was Abe's cousin Elisabeth who went in with he
 Thanks for reading!
 Linds
 
+`youtube: https://www.youtube.com/embed/I2rWljakAHc?autoplay=1&showinfo=0&controls=0`
+<br/>
+`youtube: https://www.youtube.com/embed/wBVqptobJOY?autoplay=1&showinfo=0&controls=0`
+<br/>
 ![IMG_2641](/IMG_2641.jpg)
 <br />
 ![IMG_2650](/IMG_2650.jpg)

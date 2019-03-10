@@ -16,7 +16,7 @@ const PostList = ({ posts }) => {
     const date = get(node, 'frontmatter.date')
     const excerpt = get(node, 'excerpt')
     return (
-      <Link to={node.fields.slug} key={index}>
+      <Link to={node.fields.slug} key={index} css={{color: 'inherit', textDecoration: 'none'}}>
         <TitleDatePhoto title={title} date={date} imageResponsive={imageResponsive}/>
         <p css={{marginBottom: rhythm(2), marginTop: rhythm(1/2), fontSize: rhythm(3/4)}}>
           {excerpt}
