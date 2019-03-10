@@ -1,8 +1,8 @@
 ---
 title: Silence Day
 date: 2019-03-07
-featuredImage: './IMG_8453.jpg'
-published: true
+featuredImage: './IMG_2941.jpg'
+published: false
 destination: Bali
 ---
 Today is Silence day. It’s New Year’s Eve according to the 210 day Balinese calendar. But, I’m quite sure the experience here is unlike any New Year you’ve celebrated. Locally, it’s known as Nyepi and constitutes a 24hr period from 6am until 6am. During this time the Balinese follow 5 very strict rules:
@@ -34,7 +34,5 @@ Thanks for reading,
 Abe
 
 ![IMG_5309](IMG_5309.jpg)
-<br/>
-![IMG_2941](IMG_2941.jpg)
 <br/>
 ![IMG_0755](IMG_0755.jpg)

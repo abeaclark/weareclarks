@@ -1,7 +1,7 @@
 ---
 title: Balinese Culture
 date: 2019-02-28
-featuredImage: './IMG_7860.jpg'
+featuredImage: './IMG_4001.jpg'
 published: true
 destination: Bali
 ---
@@ -53,6 +53,30 @@ Thanks for reading,
 
 Abe
 
+![IMG_3741](/IMG_3741.jpg)
+<br/>
+![IMG_3749](/IMG_3749.jpg)
+<br/>
+![IMG_3747](/IMG_3747.jpg)
+<br/>
+![IMG_3752](/IMG_3752.jpg)
+<br/>
+![IMG_3759](/IMG_3759.jpg)
+<br/>
+![IMG_3771](/IMG_3771.jpg)
+<br/>
+![IMG_3915](/IMG_3915.jpg)
+<br/>
+![IMG_3920](/IMG_3920.jpg)
+<br/>
+![IMG_3995](/IMG_3995.jpg)
+<br/>
+![IMG_4318](/IMG_4318.jpg)
+<br/>
+![IMG_4572](/IMG_4572.jpg)
+<br/>
 ![IMG_7864](/IMG_7864.jpg)
+<br/>
+![IMG_7860](/IMG_7860.jpg)
 <br/>
 `youtube: https://www.youtube.com/embed/kqG5ZbM6MM4?autoplay=1&showinfo=0&controls=0`
