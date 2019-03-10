@@ -15,7 +15,7 @@ Abe strapped our GoPro to Lulu and she was taking pictures and videos the entire
 Also, the day we did this hike there was some running event going on and it was pirate themed which was pretty entertaining. 
 Every so often someone would yell “runner!” and that meant to get out of the way so they could pass.
 We have no idea what kind of event it was, but it looked pretty intense.
-It had recently rained so it was pretty muddy, by the time we got back all of us had mud all over our legs (except for Stella since she stayed in the carrier the whole time!).
+It had recently rained so it was pretty muddy, by the time we got back all of us had mud all over our legs (except for Stella since she stayed in the carrier the whole time! Although her cousin Alexander walked a good chunk of the hike and he was a mess but I mean so impressive how much he walked!).
 There was a convenient spot in the parking lot as a wash off station. This is a great great hike!
 
 After we hiked we got lunch at Nico’s Pier.
@@ -24,7 +24,6 @@ It was so so fresh and so so good.
 Definitely go to Nico’s Pier for a meal if you are visiting Oahu! 
 
 Thanks for reading!
-
 Lindsay
 
 ![IMG_1297](/IMG_1297.JPG)

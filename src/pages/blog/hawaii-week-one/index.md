@@ -12,12 +12,10 @@ We figured out what our basic schedule would be for the day to day here in Hawai
  
 Mornings we go out for an adventure without Abe, come back for lunch and naptime, then head out again once Abe finishes up work! Some outings we’ve done so far in the morning are visit the Honolulu Zoo, Ko Olina lagoons, and travel clinic appointments. 
 
-We took a trip to the North Shore on Saturday before realizing that a huge swell had come in that morning (30 FT WAVES PEOPLE). We ate some food and hung out on the windy beach and learned how scared Stella is of big waves. Some photos (and a funny but sad video of S) from our day below! 
+We took a trip to the North Shore on Saturday before realizing that a huge swell had come in that morning (30 FT WAVES PEOPLE). We ate some food and hung out on the windy beach and learned how scared Stella is of big waves. Some photos (and a funny but sad video of S) from our week below! 
 
 Thanks for reading!
-
-Happy traveling,
-The Clark Family    
+Linds   
 
 ![B06](/B0615921-7568-45C3-AB27-C0BC312BBAF5.JPG)
 <br />

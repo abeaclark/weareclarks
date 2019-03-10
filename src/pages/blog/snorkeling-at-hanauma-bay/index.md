@@ -21,8 +21,7 @@ We got lucky with the weather and some light rain came but then disappeared and 
     - You’ll probably want to spend more time here than planned! I would set aside a whole day for this, pending ages of kids/need for naps.
 * Get some of the fog free drops for your goggles
     - A kind random lady overheard us talking about clearing our goggles all the time and offered her fog free goggle drops and they really helped!
-* Snorkel with someone and make a plan 
-    - Try to have a plan about which direction you want to go, navigating around the reef can be tricky and it gets quite shallow at times! You don’t want to step on the reef either, it damages the ecosystem.
+
         
 I didn’t take many pictures from this day but took a lot of videos! Watch to see some bright and colorful fish! My two favorite were the
 Humuhumunukunukuapua'a (Hawaii’s state fish) and the Rainbow fish (we saw some really BIG rainbow fish and it was amazing). No turtles this time though, maybe next time we visit Hanauma Bay! 

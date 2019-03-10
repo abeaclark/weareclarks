@@ -10,24 +10,24 @@ destination: Hawaii
 
 #### Matsumoto’s Shave Ice
 
-Matsumoto’s is shaved ice, and I love shaved ice.
+I love shaved ice.
 I have almost perfected my order, my two staple flavors are Melon and Mango, with sweetened condensed milk on top.
 I’ve also tried Pineapple and Coconut with those flavors and it isn’t quite right yet.
 If you know me then you know I honestly enjoy making the perfect combo/getting the perfect bite.
 Abe doesn’t LOVE shaved ice, but he likes Matsumoto’s because you can get it with ice cream in the bottom and beans!
-He’s a big fan of Guava/Passionfruit/POG
+He’s a big fan of Guava/Passionfruit/POG.
 
 #### Ted’s Bakery
 
 Ted’s Bakery has Abe’s favorite dessert of ALL TIME. Which is a BIG DEAL.
-If you know Abe then you know he doesn’t take favorites lightly, and often doesn’t pick favorites (because what if he changes his mind!?).
+If you know Abe then you know he doesn’t take favorites lightly, and often doesn’t pick favorites (because what if he changes his mind!? The pressure is too great!!!).
 He likes the freedom that comes with not having favorites.
 BUT Ted’s is an exception.
 Abe’s favorite dessert of ALL TIME is… **Chocolate Haupia Cream Pie (haupia=coconut)**
 
-There’s another treat we discovered at Ted’s.. their chocolate filled doughnut.
+Ted’s chocolate filled doughnut is a new treat we discovered and it is out of this world.
 It is the same chocolate filling that is in the pie, and the donut is perfectly fried and glazed.
-It is SO. GOOD. I need another one. 
+It is SO. GOOD. I need another one.
 
 I should probably note that Ted’s also does food, not just sweets.
 It is a great place to stop if you are up on North Shore/Shark’s Cove area. 
@@ -61,9 +61,9 @@ But definitely get a Cocoa Puff. Stella likes their decorated sugar cookies.. Ho
 
 #### Abe’s ranking:
 1) Ted’s : chocolate haupia cream pie
-2) Leonard’s :
-3) Matsumoto’s :
-4) Liliha : 
+2) Leonard’s : classic/regular sugar
+3) Matsumoto’s : tropical with beans and ice cream and sweetened condensed milk on top
+4) Liliha : chocolate haupia cake
 
 ![shave ice](/IMG_1981.JPG)
 <br />

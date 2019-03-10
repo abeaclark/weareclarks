@@ -13,8 +13,7 @@ Although this is a paved trail and doesn’t feel as much like a “hike,” the
 We really enjoyed doing this hike with Buffy & Ben and their two kids Lulu & Alexander. 
 
 Thanks for reading!
-
-The Clark Family 
+Linds
 
 ![9807841D](/9807841D-0C90-4117-934D-DC4686970F1A.JPG)
 <br />

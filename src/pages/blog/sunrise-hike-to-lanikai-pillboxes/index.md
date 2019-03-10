@@ -11,7 +11,7 @@ Buffy was so kind to let Stella stay asleep and watch her that morning when she 
 It felt so good to go do an activity sans baby! We got such a good parking spot, considering there are only like 5 parking spots right by the trailhead.
 It’s a neighborhood and so they have someone standing out there making sure you don’t park where you aren’t supposed to.
 
-We started the hike and it was still pitch dark, we had our two headlamps which we insanely helpful.
+We started the hike and it was still pitch dark, we had our two headlamps which were insanely helpful.
 We hiked to the first pillbox and the view was great, but it was still a bit before sunrise so we decided to hike to the second pillbox.
 We got a really good spot to watch the sunrise and we just waited.
 More and more people showed up to catch the view.
@@ -32,6 +32,9 @@ At that point we were hiking down and noticing all these people hiking up and we
 I think doing it at sunrise was so fun and worth it, but even if you can’t make sunrise it would be worth it to go whenever you can.
 We are so glad we did this hike! It was the highlight of Hawaii for me, maybe mostly because we were able to go just me and Abe,
 but that still counts.
+
+Thanks for reading!
+Linds
 
 
 ![IMG_2287](/IMG_2287.JPG)

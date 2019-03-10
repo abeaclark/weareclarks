@@ -42,7 +42,8 @@ Researching vaccines and disease risk is important, but not fun. It seriously st
 **RABIES (Stella)**
 Rabies vaccine is recommended in Thailand and Bali for “some” travelers. Since Stella loves animals a ridiculous amount (I mean seriously she legit HUGGED a parrot yesterday, spent the better part of today trying to catch a pigeon, and screams every time she sees a dog). We decided to get this vaccine for her to put us at ease. She is young enough that she can’t communicate to us directly if something were to happen and Abe or I didn’t see it. Abe and I decided to not get rabies because if we were bitten we would be able to communicate that and get to a clinic quickly. This is an expensive vaccine and it is three doses. 
 
-*Note about Rabies: Even if you have the vaccine you need immediate treatment if you’ve been bitten or scratched by an animal! We’ve looked up some local travel clinics in Thailand and Bali and know there are treatment options there.*
+
+*Note about Rabies: Even if you have the vaccine you need immediate treatment if you’ve been bitten or scratched by an animal! We’ve looked up some local travel clinics in Thailand and Bali and know there are treatment options there. --UPDATED TO SAY I was bitten by a monkey and got rabies vaccines while in Bali. Post on that is ![here](/do-not-go-to-the-monkey-forest)*
 
 **JAPANESE ENCEPHALITIS (Stella)**
 Japanese Encephalitis is recommended in Thailand and Bali for “some” travelers. This is a vaccine I would have preferred that all of us get, but we decided to get it for Stella since it is so expensive. We went over with our travel clinic doctor which sprays/creams to use and other precautions to take since this is a disease that is transmitted by mosquitoes. 
@@ -56,11 +57,9 @@ We both were outdated for our Tetanus shots and had that taken care of at a phar
 **TYPHOID (Lindsay and Abe)**
 This vaccine is recommended for “some” travelers in Thailand and Bali. Since we will be traveling through these areas for 2.5 months, we decided we fell into the “some” travelers” category. This vaccine is not approved for Stella’s age. We chose the oral vaccine option, which is a series of pills. 
 
-This is what WE decided to do. Based on your needs or where you are going you may not need any of these, or may want to consider other vaccines. Do your own research. As far as travel planning goes, we decided to cut out Vietnam and Cambodia, and India, because of certain disease risks. 
+This is what WE decided to do. Based on your needs or where you are going you may not need any of these, or may want to consider other vaccines. Do your own research. As far as travel planning goes, we decided to cut out India because of certain disease risks. 
 
 Something to consider is that we will be in these areas for an extended period of time, almost 2.5 months total. You’ll notice on the website that vaccines may not be recommended for short term travelers. But again, do your own research! 
 
 Thanks for reading!
-
-
-the clark family 
+Linds
