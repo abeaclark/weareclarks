@@ -23,7 +23,7 @@ class Header extends React.Component {
           </Link>
         </div>
         <div css={{display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center'}}>
-          <Link to="/subscribe" css={styles.link}>
+          <Link to="/subscribe" css={[styles.link, {marginLeft: 0}]}>
             subscribe
           </Link>
           <Link to="/about" css={styles.link}>
