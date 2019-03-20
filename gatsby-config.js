@@ -8,6 +8,7 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     `gatsby-plugin-glamor`,
+    `gatsby-plugin-netlify-cache`,
     {
       resolve: `gatsby-source-filesystem`,
       options:
