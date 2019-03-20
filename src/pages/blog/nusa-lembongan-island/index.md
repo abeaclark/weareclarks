@@ -26,7 +26,7 @@ The biggest lesson learned is that you should always ask how the conditions are 
 
 The way home from Lembongan was just as crazy as this snorkeling trip. More about that in our [post about Silence Day](/blog/silence-day).
 
-Thanks for reading,
+Thanks for reading!
 
 Abe
 

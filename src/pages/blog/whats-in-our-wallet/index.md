@@ -3,7 +3,7 @@ title: "What's in Our Wallet"
 date: 2019-02-05
 featuredImage: './IMG_8204.jpg'
 published: true
-destination: null
+destination: Travel Tips
 ---
 
 Not much money, to be honest. But, we do have a useful set of credit / debit cards that make traveling more enjoyable and cost effective. 
@@ -62,4 +62,8 @@ No fees. 1.5% back across the board. Our go-to card when we can’t remember whi
 #### Bank of America Alaska Airlines card
 
 30,000 bonus miles. Free buddy pass when you sign up. Free checked bags. Annual buddy pass for just taxes and fees. We travel a lot on Alaska, so the free checked bag ends up paying for itself. We used the free buddy pass to get to Hawaii. A great card IF you plan to fly Alaska a lot. Otherwise, stick to the Chase Sapphire Reserve.
+
+Thanks for reading!
+
+Abe
 

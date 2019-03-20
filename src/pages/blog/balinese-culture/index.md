@@ -49,7 +49,7 @@ You can’t go more than 100 yards in Bali without seeing a temple (some, we’d
 
 We’ve been blown away by the dedication of the community to each other and to their religious observance. It’s impressive to see so many important values imbedded deeply into their lifestyle.
 
-Thanks for reading,
+Thanks for reading!
 
 Abe
 

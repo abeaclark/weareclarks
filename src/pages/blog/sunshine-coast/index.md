@@ -21,6 +21,7 @@ The other day we came we all went at the same time and decided to check out the 
 We could have spent a few more days up on the Sunshine Coast (especially in that Airbnb) with our friends! Stella and Pierce are only two weeks apart in age, and they got along so well! Congrats to Cody & Alysse on baby number two, baby Wells! We loved getting to see them and meet their new baby. Hope the next time we see you we will be moving back to SF!
 
 Thanks for reading!
+
 Linds
 
 

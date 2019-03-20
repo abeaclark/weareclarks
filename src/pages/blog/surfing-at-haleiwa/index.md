@@ -14,6 +14,7 @@ I was not interested in the getting in the water because I was COLD and also bec
 One of my favorite parts of today was Abe's cousin Elisabeth who went in with her dad to try surfing at the end. Everyone was cheering her on and we were videoing every wave to catch her on camera surfing. She caught a wave and at the end she hopped off and raises her arms like a champion. Everyone is cheering and she grabs her board and then gives us all a thumbs up. It was the best. I'll post the video below! 
 
 Thanks for reading!
+
 Linds
 
 `youtube: https://www.youtube.com/embed/I2rWljakAHc?autoplay=1&showinfo=0&controls=0`

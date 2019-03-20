@@ -24,7 +24,8 @@ It was so so fresh and so so good.
 Definitely go to Nico’s Pier for a meal if you are visiting Oahu! 
 
 Thanks for reading!
-Lindsay
+
+Linds
 
 ![IMG_1297](/IMG_1297.JPG)
 <br />

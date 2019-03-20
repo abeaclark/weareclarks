@@ -31,6 +31,7 @@ I recently went back and got my third rabies shot, and then I have one more on d
 Just take my advice and don’t go to the monkey forest. And that is the story on how we dropped 25 million (rupiah; $2000 UDS) on day three in Bali. Totally has blown any type of monthly budget we had for Bali. It is the unexpected travel costs you need to watch out for, but at the end of the day, we had to do what we had to do.
 
 Thanks for reading!
+
 Linds
 
 ![IMG_4328](/IMG_4328.jpg)

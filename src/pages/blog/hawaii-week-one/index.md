@@ -15,7 +15,8 @@ Mornings we go out for an adventure without Abe, come back for lunch and naptime
 We took a trip to the North Shore on Saturday before realizing that a huge swell had come in that morning (30 FT WAVES PEOPLE). We ate some food and hung out on the windy beach and learned how scared Stella is of big waves. Some photos (and a funny but sad video of S) from our week below! 
 
 Thanks for reading!
-Linds   
+
+Linds
 
 
 `youtube: https://www.youtube.com/embed/bazHHdEX3k8?autoplay=1&showinfo=0&controls=0`

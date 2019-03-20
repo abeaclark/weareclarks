@@ -26,6 +26,10 @@ We got lucky with the weather and some light rain came but then disappeared and 
 I didn’t take many pictures from this day but took a lot of videos! Watch to see some bright and colorful fish! My two favorite were the
 Humuhumunukunukuapua'a (Hawaii’s state fish) and the Rainbow fish (we saw some really BIG rainbow fish and it was amazing). No turtles this time though, maybe next time we visit Hanauma Bay! 
 
+Thanks for reading!
+
+Linds
+
 ![hbay](/GOPR0241.jpg)
 <br />
 ![hbay 2](/IMG_2680.jpg)

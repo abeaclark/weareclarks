@@ -51,8 +51,7 @@ KOALA CROSSING SIGNS
 
 Thanks for reading!
 
-Happy Traveling!
-Xo, the Clark family 
+Linds
 
 
 ![IMG_3129](IMG_3129.jpg)

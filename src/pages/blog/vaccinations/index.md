@@ -3,7 +3,7 @@ title: Vaccinations
 date: 2019-01-10
 featuredImage: './vaccinations.jpg'
 published: true
-destination: null
+destination: Travel Tips
 ---
 
 ### What people don’t talk about when they travel: TRAVEL VACCINATIONS
@@ -62,4 +62,5 @@ This is what WE decided to do. Based on your needs or where you are going you ma
 Something to consider is that we will be in these areas for an extended period of time, almost 2.5 months total. You’ll notice on the website that vaccines may not be recommended for short term travelers. But again, do your own research! 
 
 Thanks for reading!
+
 Linds

@@ -23,6 +23,7 @@ We drove into Brisbane and I dropped Abe & Stella and all of our stuff off at th
 I don’t think I’d recommend driving from Sydney to Brisbane, but more fly into Brisbane and drive to/from Byron Bay. The only thing I’d recommend on our drive that is far way from Brisbane is the Koala Hospital in Port Macquarie, but that in and of itself wouldn’t be worth the roadtrip.. Unless you really really want to see these specific koalas. Byron Bay is definitely the best town we stopped at on the coast, and if you are going to Brisbane I’d definitely recommend renting a car and spending a day or two there! I think we would have liked to spend 2-3 days there. There is such a fun beach shopping area with tons of shops and good food and a fun beach! Just overall fun vibes (unlike the old lady at church in Port Macquarie who told us “ah byron bay where all the hippies smoke all the potties” ( and don't forget to say that in an Australian accent hahaha). 
 
 Thanks for reading!
+
 Linds 
 
 

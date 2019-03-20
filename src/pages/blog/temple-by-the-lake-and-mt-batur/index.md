@@ -22,6 +22,10 @@ And that was the end of day tour day ONE. An amazing day.
 
 A lot of people in Bali do what Ayu does, day tours like the one I just described. The cost was 600,000 rupiah which is $42 USD. Which includes everything we did that day, gas, air conditioned car, stress free navigation,etc. The only thing it doesn’t cover is the fees to get into the hot springs, or a donation for a temple. This is definitely the way to see Bali. Believe me you do not want to try to drive on these roads. Maybe a scooter, but even then the car/driver situation is so affordable and so stress-free. The roads here are INSANE. They aren’t big enough for two cars to fit going either direction, people are constantly pulling over or parked in the middle of the road. Scooters going around you, no traffic signs, people passing each other constantly. Dogs laying in the middle of the street all the time. Really it is absolutely insane. Thankful for Ayu and her driving skills! Another plus of having a local Balinese driver is they tell you all about the culture as you drive. Answering any questions you have and bringing up interesting things you see as you drive. Let me know if you go to Bali and want to hire Ayu, I know she would be more than grateful for your business and to share her culture with more people!
 
+Thanks for reading!
+
+Linds
+
 ![IMG_3788](/IMG_3788.jpg)
 <br/>
 ![IMG_3820](/IMG_3820.jpg)
