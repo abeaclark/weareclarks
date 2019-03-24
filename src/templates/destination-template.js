@@ -18,6 +18,7 @@ import { DestinationImage } from '../pages/destinations'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const slug = this.props.pathContext.slug
     let posts = get(this, 'props.data.allMarkdownRemark.edges') || []
     posts = posts.filter(p => get(p, 'node.frontmatter.destination') === get(post, 'frontmatter.title'))
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
@@ -33,6 +34,7 @@ class BlogPostTemplate extends React.Component {
           description={excerpt}
           image={fullThumbnailImageURL}
           title={`${siteTitle} | ${title}`}
+          path={slug}
         />
         <Header />
         <div css={themeStyles.textPadding}>

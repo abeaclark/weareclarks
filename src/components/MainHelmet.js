@@ -2,10 +2,11 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import familyPic from '../assets/2018_SF_Family.jpg'
 
-const defaultDescription = "we're traveling the world and sometimes post photos here"
-const defaultTitle = "the clark family | travel blog"
+const defaultDescription = "We're traveling the world and sometimes post photos here"
+const defaultTitle = "The Clark Family | Travel Blog"
 const defaultImage = familyPic
 const defaultKeywords = 'family, travel'
+export const baseURL = 'https://www.weareclarks.com'
 
 const mainScript={
   "type": "application/ld+json",
@@ -22,7 +23,7 @@ const mainScript={
   }`
 }
 
-export default ({ description=defaultDescription, title=defaultTitle, image=defaultImage, keywords=defaultKeywords, script }) => (
+export default ({ description=defaultDescription, title=defaultTitle, image=defaultImage, keywords=defaultKeywords, script, path="", type="blog" }) => (
   <Helmet
     title={title}
     meta={[
@@ -37,6 +38,8 @@ export default ({ description=defaultDescription, title=defaultTitle, image=defa
     <meta property="og:title" content={title} />
     <meta property="og:image" content={image} />
     <meta property="og:image" content={image} />
+    <meta property='og:url' content={baseURL + path} />
+    <meta property='og:type' content={type} />
     <meta
       property="twitter:image"
       content={image}

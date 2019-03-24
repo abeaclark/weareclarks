@@ -9,9 +9,7 @@ import get from 'lodash/get'
 import { rhythm } from '../utils/typography'
 
 const About = ({ location, data }) => {
-  console.log(data)
   const imgFluid = get(data, 'file.childImageSharp.fluid')
-  console.log(imgFluid)
   return (
     <Layout location={location}>
       <Header />
