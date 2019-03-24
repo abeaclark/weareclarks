@@ -26,6 +26,10 @@ After a few days it was time to return to Phuket. We checked out of our hotel an
 
 We didn’t make it on a trip to snorkel or visit the surrounding islands (mainly since we were trying to help Stella get better). If you go to Phi Phi, you should definitely do this. There are also tons of dive shops (almost as many dive shops as sketchy tatoo parlors!!)
 
+Thanks for reading!
+
+Abe
+
 ![IMG_7317](/IMG_7317.jpg)
 <br/>
 ![IMG_7310](/IMG_7310.jpg)
