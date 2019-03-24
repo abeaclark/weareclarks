@@ -2,7 +2,7 @@ import Typography from 'typography'
 
 const theme = {
   title: 'Custom Theme',
-  baseFontSize: '18px',
+  baseFontSize: '20px',
   baseLineHeight: 1.5,
   googleFonts: [
     {
