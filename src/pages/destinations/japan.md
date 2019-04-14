@@ -1,7 +1,7 @@
 ---
 title: Japan
 date: 2019-04-05
-featuredImage: '../blog/sydney/sydney.jpg'
+featuredImage: '../blog/the-gates-at-fushimi-inari/IMG_9591.jpg'
 published: true
 ---
 
