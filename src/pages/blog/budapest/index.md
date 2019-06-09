@@ -1,7 +1,7 @@
 ---
 title: Budapest
 date: 2019-05-16
-featuredImage: "../blog/budapest/IMG_3471.jpg
+featuredImage: "../blog/budapest/IMG_3471.jpg"
 published: true
 destination: Hungary
 ---
