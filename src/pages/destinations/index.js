@@ -16,6 +16,8 @@ const styles = {
     width: '100%',
   },
   destinationTitle: {
+    alignSelf: 'stretch',
+    textAlign: 'center',
     position: 'absolute',
     top: 0,
     bottom: 0,
